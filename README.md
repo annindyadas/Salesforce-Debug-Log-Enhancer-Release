@@ -4,6 +4,8 @@
 **Link to Download:**  
 [Salesforce Debug Log Enhancer - Chrome Web Store](https://chromewebstore.google.com/detail/salesforce-debug-log-enha/bbmjihbifoabgfpbbembfecgdnhaibmn)
 
+**Short Demo:**  
+[Youtube Link](https://www.youtube.com/watch?v=wptRTgkUD78)
 ---
 
 ## 🧩 Problem Statement
